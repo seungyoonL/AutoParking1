@@ -6,6 +6,7 @@ void setup() {
   // 2차 수정
   // 깃 test브랜치 상태에서 1차 수정
   // 깃 test1브랜치 삭제하고 master에서 다시 작업후 원격레포에 올려보기
+  // 깃 seungyoon브랜치에서 작업하고 올려보기 @작업@
 }
 
 void loop() {
